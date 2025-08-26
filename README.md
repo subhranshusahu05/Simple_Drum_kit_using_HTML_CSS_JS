@@ -24,3 +24,5 @@ It allows users to play drum sounds by either **clicking the buttons** or **pres
 1. Each drum button is mapped to a specific sound file (e.g., `tom-1.mp3`, `snare.mp3`, `crash.mp3`).
 2. When a button is clicked or a key is pressed, JavaScript plays the matching sound.
 3. An animation highlights the active drum button for better user interaction.
+<img width="1920" height="972" alt="photo" src="https://github.com/user-attachments/assets/29296083-e44f-43f0-949f-27ce95d5f533" />
+
